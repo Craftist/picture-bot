@@ -1,6 +1,6 @@
 ﻿const { VK } = require('vk-io');
 const bot = new VK({
-    token: 'b069ed89d72a85c13ffb58deb4072f9504d1b6b94f1ef66004e54903f031f5be78a1030610664f24b220f'
+    token: 'сука токен спалил'
 });
 
 const fs = require('fs');
